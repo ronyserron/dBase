@@ -1,0 +1,27 @@
+/* 
+
+Template: 	dBase 1.0
+Created: 	07.05.2015
+Updated: 	07.05.2015
+
+Created by: Rony Serrón
+Website: 	http://ronyserron.com
+Mail: 		ronyserron@gmail.com
+
+*/
+
+/*=== Generic Styles ===*/
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+iframe, object, embed {
+    max-width: 100%;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
