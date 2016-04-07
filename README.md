@@ -1,11 +1,11 @@
-# dBase 1.0
+# dBase 1.5
 Starter template blank Bootstrap
 
 ### Include 
-- Bootstrap 3.3.5
-- Font Awesome 4.4.0
+- Bootstrap 3.3.6
+- Font Awesome 4.5.0
 - Animate.css
-- jQuery 1.11.3
+- jQuery 1.12.0
 - ValidationEngine Plugin
 - goMap Plugin 1.3.3
 - Asynchronous Google Analytics Script
