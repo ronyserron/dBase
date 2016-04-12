@@ -1,4 +1,4 @@
-# dBase 1.5
+# dBase 1.6
 Starter template blank Bootstrap
 
 ### Include 
@@ -19,6 +19,7 @@ Starter template blank Bootstrap
 - Viewport
 - Google-site-verification
 - Robots
+- Custom color bar for Chrome (Android), Windows Phone 10 and iOS (Transparent only)
 
 ### Social Media Tags
 - Facebook Share Meta
